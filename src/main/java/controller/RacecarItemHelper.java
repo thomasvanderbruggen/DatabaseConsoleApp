@@ -1,3 +1,9 @@
+/** 
+ * @author Thomas VanderBruggen - tvanderbruggen
+ * CIS175 - Spring 2021
+ * 2/21/2021
+ */
+
 package controller;
 
 import java.util.List;

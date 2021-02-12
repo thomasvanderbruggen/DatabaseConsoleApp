@@ -1,3 +1,9 @@
+/** 
+ * @author Thomas VanderBruggen - tvanderbruggen
+ * CIS175 - Spring 2021
+ * 2/21/2021
+ */
+
 import java.util.List;
 import java.util.Scanner;
 
@@ -9,7 +15,6 @@ public class StartProgram {
 	static RacecarItemHelper raceHelper = new RacecarItemHelper(); 
 	public static void main(String[] args) {
 		menu(); 
-
 	}
 	public static void menu() { 
 		System.out.println("---- Thomas's Database of Cars ----");
